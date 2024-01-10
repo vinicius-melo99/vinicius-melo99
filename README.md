@@ -4,7 +4,6 @@
 I am an early-career full-stack developer seeking my first opportunity in the development market. Currently, I have a preference for working on the front-end, but I am open to any challenges! I am a very studious, focused, and determined individual who is always striving to improve and acquire new knowledge and skills.
 
 &nbsp;
- &nbsp;
 
 ## ⚡ My Stacks:
 #### 🔧 Tools: 
@@ -46,7 +45,6 @@ I am an early-career full-stack developer seeking my first opportunity in the de
 <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
 </div>
 
- &nbsp;
  &nbsp;
 
 ## 🌐 Contacts:
