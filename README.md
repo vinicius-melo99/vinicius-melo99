@@ -1,7 +1,7 @@
 
 # Hello world! I'm Vinicius! 👋
 
-I am an early-career full-stack developer seeking my first opportunity in the development market. Currently, I have a preference for working on the front-end, but I am open to any challenges! I am a very studious, focused, and determined individual who is always striving to improve and acquire new knowledge and skills.
+I am an early-career full-stack developer seeking my first opportunity in the development market, open to any challenges! I am a very studious, focused, and determined individual who is always striving to improve and acquire new knowledge and skills.
 
 &nbsp;
 
